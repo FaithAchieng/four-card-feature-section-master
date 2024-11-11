@@ -38,6 +38,7 @@ body{
     border-radius: 10px;
     border-top: 4px solid hsl(0, 78%, 62%);
     margin-left: 20px;
+    background-color: #fff;
 }
 .builder img{
     position: relative;
@@ -53,6 +54,7 @@ body{
     border-radius: 10px;
     border-top: 4px solid hsl(34, 97%, 64%);
     margin-left: 20px;
+    background-color: #fff;
 }
 .karma img{
     position: relative;
@@ -68,6 +70,7 @@ body{
     border-radius: 10px;  
     border-top: 4px solid hsl(212, 86%, 64%);
     margin-right: 20px;
+    background-color: #fff;
     
 }
 .calculator img{
